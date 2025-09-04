@@ -3,7 +3,13 @@
 
 Semantic Geometry provides a toolkit for exploring semantic fields, building projection axes, measuring biases, and visualizing embedding geometry produced by transformer-based sentence / word encoders (for example, models from sentence-transformers). The library is split into focused modules so you can mix low-level projection utilities with higher-level analysis pipelines and visualizations.
 
+SemGeom is a Python library designed to analyze the interpretability of transformer models. It provides tools to inspect and understand how transformers process and represent semantic information, helping researchers and practitioners gain deeper insights into model behavior.
 
+Features:
+- Analyze internal representations of transformer-based models
+- Explore semantic geometry of embeddings
+- Visualize and interpret attention patterns
+- Lightweight and easy to integrate into existing pipelines
 
 
 ## Quick Start
