@@ -14,6 +14,13 @@ Features:
 
 ## Quick Start
 
+This package published in PYPI - https://pypi.org/project/semgeom/
+So you can use it like this:
+
+```bash
+pip install semgeom
+```
+
 Install required packages:
 
 ```bash
